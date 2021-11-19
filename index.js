@@ -97,4 +97,4 @@ client.on('interactionCreate', async interaction => {
   }
 });
 
-client.login(getEnvVariable(process.env.DISCORD_TOKEN ,config.token));
+client.login(process.env.TOKEN);
