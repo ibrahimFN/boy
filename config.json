@@ -1,6 +1,6 @@
 {
     "token": "YOUR_TOKEN",
     "activityType": "PLAYING",
-    "activity": "my prefix (*)",
+    "activity": "music bot"
     "PREFIX": "*",
 }
