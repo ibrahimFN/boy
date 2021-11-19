@@ -5,8 +5,6 @@ const config = require('./config.json');
 const {Player} = require('discord-player');
 const { getEnvVariable } = require('./utils/env_utils')
 
-client.prefix = PREFIX;
-
 const client = new Client();
 client.commands = new Discord.Collection();
 
